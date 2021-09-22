@@ -1,0 +1,41 @@
+.training_card_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+  color: rgb(51, 49, 49);
+}
+
+.fresher_heading_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 28px;
+}
+
+.fresher_heading {
+  margin-right: 10px;
+  color: rgb(29, 27, 27);
+}
+
+.newbtn {
+  width: 4rem;
+  height: 2rem;
+  margin-bottom: 13px;
+  background-color: rgb(235, 103, 55);
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

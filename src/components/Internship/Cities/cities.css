@@ -1,0 +1,29 @@
+.cities_heading {
+  margin-top: 15px;
+  color: rgb(29, 27, 27);
+}
+
+.card_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 18px;
+  cursor: pointer;
+  width: 100%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card:hover {
+  color: rgb(10, 190, 190);
+}
+
+.city_img {
+  height: 100px;
+  width: 110px;
+}

@@ -1,0 +1,20 @@
+.training_container {
+  width: 100%;
+  margin-right: 150px;
+}
+
+.small_heading {
+  margin-top: 20px;
+}
+
+.more_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35px;
+}
+
+.more {
+  color: rgb(82, 81, 81);
+  font-size: 13px;
+}
